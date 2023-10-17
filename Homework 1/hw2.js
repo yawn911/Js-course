@@ -1,12 +1,16 @@
-let firstNumber = 22
-let secondNumber = 12 
-let thirdNumber = 24
+const firstNumber = 22
+const secondNumber = 12 
+const thirdNumber = 24
 
 thirdNumber += 24
 // Sums 
 console.log("Sum of firstNumber and secondNumber:", firstNumber + secondNumber);
+console.log("Sum of secondNumber and thirdNumber: ", secondNumber + thirdNumber);
+console.log("Sum of firstNumber and thirdNumber: ", firstNumber + thirdNumber);
 console.log("Sum of all numbers: ", firstNumber + secondNumber + thirdNumber);
 
 // Sub
-console.log("Subtraction of secondNumber from firstNumber:", firstNumber - secondNumber);
-console.log("Subtraction of all numbers: ", firstNumber - secondNumber - thirdNumber);
+console.log("Sub of firstNumber and secondNumber:", firstNumber - secondNumber);
+console.log("Sub of secondNumber and thirdNumber: ", secondNumber - thirdNumber);
+console.log("Sub of firstNumber and thirdNumber: ", firstNumber - thirdNumber);
+console.log("Sub of all numbers: ", firstNumber - secondNumber - thirdNumber);
