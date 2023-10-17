@@ -1,6 +1,6 @@
 const firstNumber = 22;
 const secondNumber = 12;
-const thirdNumber = 24
+let thirdNumber = 24
 
 thirdNumber += thirdNumber;
 
