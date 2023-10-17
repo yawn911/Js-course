@@ -1,0 +1,13 @@
+HW
+
+1.
+-Declare two variables: admin and name.
+-Assign the value "Thomas" to the name variable.
+-Copy the value from the variable name to admin.
+-Output the value of the admin variable using console.log (which should show “Thomas”).
+
+2.
+-Create 3 variables and name them correctly
+- assign the first value to 22, the second to 12, and the third to 24
+- after that, add the same third number to the third variable 
+-and display on the screen the sums of all numbers separately with each, their subtraction separately and with additional signatures in the console.log
