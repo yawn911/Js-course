@@ -2,7 +2,7 @@ const firstNumber = 22
 const secondNumber = 12 
 const thirdNumber = 24
 
-thirdNumber += 24
+thirdNumber += thirdNumber
 // Sums 
 console.log("Sum of firstNumber and secondNumber:", firstNumber + secondNumber);
 console.log("Sum of secondNumber and thirdNumber: ", secondNumber + thirdNumber);
