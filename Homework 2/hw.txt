@@ -1,0 +1,21 @@
+1.
+Announce correctly 4 variables with data a=2 c=3 e=4 x=5
+add variable a to variable x
+and
+display on the screen using $ a^e + s^x
+and display separately whether this is what came out in the previous result > for 2000, if so, then display the corresponding message in text, if not, then also the message
+
+
+
+2. 
+correctly declare an hour variable with the number of the hour now declare a minute variable with the number of what minute is it now
+
+and check if your current hour and number is later than noon and then output the hour in hh:mm format, if not, if less than noon then in hh/mm format
+
+3.
+Mykola has 5 apples and 7 pears
+He ate 2 of each type of fruit
+And he wants to make juice from the rest
+To make juice, you need at least 10 fruits
+Display it on the screen - Hooray, I have so much fruit left (count of fruits) -if it has enough fruit 
+if he lacks them, then display the corresponding text with the amount he still needs
