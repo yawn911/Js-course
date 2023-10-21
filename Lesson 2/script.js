@@ -13,7 +13,7 @@ console.log(c) // true
 console.log(d) // null
 console.log(e) // undefined
 console.log(f) // Hello
-console.log(g) // 50000000000000n (str)
+console.log(g) // 50000000000000n (int)
 
 console.log(`Variable a is: ${a ** b}`) // Variable a is: 125
 
