@@ -1,0 +1,9 @@
+1. Write a program that accepts three numbers from the user and determines which one is the largest using the if and ? statements. :
+
+2. Write a program that checks whether the entered number is even and at the same time divisible by 4 using the && operators.
+
+3.Write a program that checks whether the entered number is exactly divisible by 3 or 5 using || operators.
+
+4. Write a program that accepts two numbers from the user and outputs more of them using the ? :
+
+5. Write a program that checks whether the variable myVar has a value, and if it does, prints that value, otherwise prints a message that there is no value.
