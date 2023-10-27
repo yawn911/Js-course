@@ -1,7 +1,7 @@
-const number = 16
+const number = 10
 
-if (number % 2 === 0 && number % 4 === 0) {
-    console.log(`The ${number} is even and divisible by 4`)
-} else {
-    console.log(`The ${number} does not satisfy the condition`)
+if(number % 3 === 0 || number % 5 === 0){
+    console.log(`The ${number} is divisible by 3 or 5 without a remainder`)
+}else{
+    console.log(`The ${number} is not divisible by 3 or 5 without a remainder`)
 }
