@@ -1,0 +1,7 @@
+1. You have a set of code that uses a switch construct to determine whether an animal is extinct or not based on its name. Your task is to create a variable Animal with the name of the animal and determine if it is extinct.
+
+If the name of the animal is in the list "Cow", "Giraffe", "Dog" or "Pig", the program will display the message "This animal is not extinct.". If the name of the animal is "Dinosaur" or something else, the program will display the message "This animal is extinct."
+
+2. Write a program that uses a loop to calculate the sum of all natural numbers from 1 to n (where n is a number entered by the user)
+
+3.write a program that for the number y outputs all numbers from the number 1 to that number y outputs its neighbors (for the number 2 the neighbors are the numbers 1 and 3
