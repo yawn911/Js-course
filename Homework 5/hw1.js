@@ -9,4 +9,5 @@ switch (Animal) {
     break;
   default:
     console.log("This animal is extinct");
+    break;
 }
