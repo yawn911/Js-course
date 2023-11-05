@@ -1,19 +1,4 @@
-for(let a = 0; a < 21; a++){
-    console.log(a)
-}
-
-let num = -1
-
-while(num <= 19){
-    num++
-    console.log(num)
-}
-
-let number = 0
-
-do {
-    console.log(number)
-    number++
-} while (number <= 20){
-
+for (let i = 0; i <= 20; i++) {
+    const result = i ** 2;
+    console.log(result);
 }
