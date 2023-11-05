@@ -1,10 +1,12 @@
-function findSum(func, x, y) {
-    return func(x, y);
+function findLargerNumber(first, second) {
+    if (first > second) {
+        return first;
+    } else {
+        return second;
+    }
 }
 
-function calculateSum(x, y) {
-    return x + y;
-}
-
-let result1 = findSum(calculateSum, 5, 8);
-console.log(result1);
+let num1 = 5;
+let num2 = 8;
+let result = findLargerNumber(num1, num2);
+console.log(`The larger number between ${num1} and ${num2} is ${result}`);
