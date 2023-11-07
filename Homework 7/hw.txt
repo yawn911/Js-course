@@ -1,0 +1,4 @@
+1. Create an arrow function that takes a number as a parameter and returns the square of that number (the number raised to the square).
+
+
+2.create an array of 5 fruits and output these fruits to the console in the opposite case (example: apple, pear, plum ----- should output plum, pear, apple)
