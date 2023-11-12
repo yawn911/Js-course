@@ -1,0 +1,6 @@
+1. 1. Write a function that accepts an array of numbers (10 numbers) and removes the 4th element from it
+
+2. There is an array of numbers
+6 5 4 7 5 8 3 9 5 1
+Write a function that removes all digits 5 from the array
+
