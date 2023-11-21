@@ -1,0 +1,5 @@
+You have a mass of 10 words
+What is required (for skin care)
+1. Select from 5 to 8 elements
+2. Copy from 2 to 6 elements and output
+3. Enter all elements <6 letters
