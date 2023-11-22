@@ -1,0 +1,4 @@
+let numbers = [34, 54, 62, 100, 87, 90, 34, 33]
+(1) numbers sort
+(2) numbers reverse
+(3) numbers concat (1 AND 2)
