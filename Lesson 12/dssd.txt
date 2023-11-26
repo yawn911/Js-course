@@ -1,0 +1,1 @@
+If a number is divisible by 2: output 'fiz' if by 3: 'baz', if by 2 and 3:'fizbaz'
