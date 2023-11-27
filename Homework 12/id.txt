@@ -1,0 +1,3 @@
+let strings = [strings........]
+
+1) bring out the BIG pairs and not the small pairs
