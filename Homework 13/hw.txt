@@ -1,0 +1,5 @@
+function array(){
+    add 5 for all numbers in array :D
+    in another file i need import from another file
+    and console.log()
+}
