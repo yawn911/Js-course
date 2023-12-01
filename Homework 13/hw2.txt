@@ -1,0 +1,5 @@
+create 3 files
+the first will contain the variable "hello"
+in another file, an array of names (if it doesn't work, just the variable "John"
+in the 3rd file you should display hello + name
+if the array is the same for all names
