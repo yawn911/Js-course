@@ -1,17 +1,24 @@
-let kids = {
-    name: "Jhon",
-    age: 18,
-    sex: "male",
-  },
-  kids2 = {
-    name: "Diana",
-    age: 14,
-    sex: "female",
-  },
-  kids3 = {
-    name: "Lisa",
-    age: 16,
-    sex: "female",
-  };
+let person = {
+  name: "Jhon",
+  lastName: "Doe",
+  age: 25,
+  kids: [
+    {
+      name: "Zhenia",
+      age: 2,
+      favoriteToys: "Doll",
+    },
+    {
+      name: "Jan",
+      age: 3,
+      favoriteToys: "Cars",
+    },
+    {
+      name: "Jane",
+      age: 4,
+      favoriteToys: "Bikes",
+    },
+  ],
+};
 
-  module.exports = {kids, kids2, kids3}
+module.exports = { person };
