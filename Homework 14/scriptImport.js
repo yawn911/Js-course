@@ -1,5 +1,13 @@
-const { kids, kids2, kids3 } = require("./script");
+const { person } = require("./script");
 
-console.log(kids.name, kids.sex, kids.age);
-console.log(kids2.name, kids2.sex, kids2.age);
-console.log(kids3.name, kids3.sex, kids3.age);
+const isFirstKidOlder = person.kids[0].age > person.kids[1].age;
+
+if (isFirstKidOlder) {
+  console.log(person.kids[0].name.toUpperCase());
+  console.log(person.kids[1].name.toLowerCase());
+} else {
+  console.log(person.kids[1].name.toUpperCase());
+  console.log(person.kids[0].name.toLowerCase());
+}
+
+console.log(person.kids[2].name.toLowerCase());
