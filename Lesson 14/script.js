@@ -5,23 +5,13 @@ let person = {
   kids: [
     {
       name: "Zhenia",
-      age: 5,
+      age: 2,
       favoriteToys: "Doll",
     },
     {
       name: "Jan",
-      age: 4,
+      age: 3,
       favoriteToys: "Cars",
-    },
-    {
-      name: "Jane",
-      age: 6,
-      favoriteToys: "Bikes",
-    },
-    {
-      name: "Nikitos",
-      age: 8,
-      favoriteToys: "Bikes",
     },
   ],
 };
