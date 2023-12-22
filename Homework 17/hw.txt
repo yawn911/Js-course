@@ -1,0 +1,2 @@
+It will be necessary for each parent
+find the average age of children
